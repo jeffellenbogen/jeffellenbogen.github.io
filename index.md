@@ -1,6 +1,6 @@
 # My Hobbies
 Snowboarding is one of my favorite Hobbies
-I am also enjoying learning to ```
+I am also enjoying learning to do some coding
 
 # My Blog
 I am going to write a blog about learning GitHub
