@@ -1,6 +1,7 @@
-# My Hobbies
+# Things I Like
 Snowboarding is one of my favorite Hobbies
 I am also enjoying learning to do some coding
+Arduino is fun!
 
 # My Blog
 I am going to write a blog about learning GitHub
