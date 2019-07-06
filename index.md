@@ -4,7 +4,14 @@
 - Arduino is fun!
 
 # My Blog
-I am going to write a blog about learning GitHub
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 
 # Get in Touch
 <ul>
