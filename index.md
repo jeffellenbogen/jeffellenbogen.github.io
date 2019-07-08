@@ -12,6 +12,11 @@
   {% endfor %}
 </ul>
 
+# GitHub Repos to Check Out
+<ul>
+<li><a href="/https://github.com/jeffellenbogen/image_view}" target="new">image_view Repo</a></li>
+<li><a href="https://github.com/jeffellenbogen/WormGame" target="new">WormGame Repo</a></li>
+</ul>
 
 # Get in Touch
 <ul>
