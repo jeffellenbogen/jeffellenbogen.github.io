@@ -1,5 +1,5 @@
 # Things I Like
-- Snowboarding is one of my favorite Hobbies
+- Snowboarding is one of my favorite hobbies
 - I am also enjoying learning to do some coding
 - Arduino is fun!
 
