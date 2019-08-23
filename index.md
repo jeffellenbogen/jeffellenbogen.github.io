@@ -14,7 +14,7 @@
 
 # GitHub Repos to Check Out
 <ul>
-<li><a href="https://github.com/jeffellenbogen/RGB-Matrix-Primatives" target="new">/RGB-Matrix-Primatives Repo</a></li>
+<li><a href="https://github.com/jeffellenbogen/RGB-Matrix-Primatives" target="new">RGB-Matrix-Primatives Repo</a></li>
 <li><a href="https://github.com/jeffellenbogen/fish_tank" target="new">fish_tank Repo</a></li> 
 <li><a href="https://github.com/jeffellenbogen/image_view" target="new">image_view Repo</a></li>
 <li><a href="https://github.com/jeffellenbogen/WormGame" target="new">WormGame Repo</a></li>
